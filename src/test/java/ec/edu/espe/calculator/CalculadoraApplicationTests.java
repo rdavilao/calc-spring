@@ -1,9 +1,9 @@
-package ec.edu.espe.calculadora;
+package ec.edu.espe.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-//@SpringBootTest
+@SpringBootTest
 class CalculadoraApplicationTests {
 
 	@Test
